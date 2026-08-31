@@ -1,5 +1,6 @@
 {
-    "name": "Player",
+    "version": 1,
+    "name": "Interactions",
     "maps": [
         {
             "name": "Player",
